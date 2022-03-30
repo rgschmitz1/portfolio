@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/rgschmitz1/starter-hugo-academic'
+    url: 'https://github.com/rgschmitz1/portfolio'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -99,7 +99,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter

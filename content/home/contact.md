@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: schmitzr1984@gmail.com
-  phone: +1 608 320 0775
+  # phone: 
   # address:
   #   street: 450 Serra Mall
   #   city: Stanford
