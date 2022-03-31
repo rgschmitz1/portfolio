@@ -71,4 +71,4 @@ Robert Schmitz is a Computer Science and Systems graduate student at the Univers
 
 Robert lives in the Pacific Northwest with his wife and daughters. He enjoys climbing, kayaking, home brewing, and gardening.
 
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://rgschmitz1.github.io/RobertSchmitz-Resume.pdf).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
