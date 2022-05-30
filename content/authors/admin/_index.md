@@ -14,7 +14,7 @@ organizations:
   url: https://biodepot.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include DevOps and cloud computing.
+bio: My interests include DevOps, cloud computing, and open source software.
 
 # Interests to show in About widget
 interests:
@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Robert Schmitz is a Computer Science and Systems graduate student at the University of Washington Tacoma. His capstone project involves building cloud-native applications using open source software. Robert has experience as a DevOps Engineer and Hardware Test Engineer.
+Robert is currently a Computer Science and Systems graduate student at the University of Washington Tacoma. His capstone project involves building cloud-native applications using open source software (e.g. Kubernetes, OpenFaaS).
 
-Robert lives in the Pacific Northwest with his wife and daughters. He enjoys climbing, kayaking, home brewing, and gardening.
+Robert lives in the Pacific Northwest with his wife, daughters, and dogs. He enjoys climbing, kayaking, home brewing, gardening, and programming.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
