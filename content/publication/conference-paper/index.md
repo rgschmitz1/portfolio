@@ -5,8 +5,8 @@ title: "Characterizing X86 and ARM Serverless Performance Variation: A Natural L
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Danielle Lambion
 - admin
+- Danielle Lambion
 - Robert Cordingly
 - Navid Heydari
 - Wes Lloyd
@@ -17,7 +17,7 @@ author_notes:
 - "Equal contribution"
 
 date: ""
-doi: "10.1145/3491204.3527465"
+doi: "10.1145/3491204.3543506"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-16T00:00:00Z"
@@ -52,9 +52,9 @@ url_code: https://github.com/lambiond/faas_variability_topic_modeling
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://raw.githubusercontent.com/lambiond/faas_variability_topic_modeling/main/hotcloudperf-presentation.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/VEF3i_XNGy0?t=11354'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
