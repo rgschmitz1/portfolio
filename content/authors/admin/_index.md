@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-I recently graduated with a MS in Computer Science and Systems graduate from the University of Washington - Tacoma. My capstone project involed building cloud-native applications using open-source software (e.g. Kubernetes, OpenFaaS), as well as benchmarking and cost analysis of provisioning and running distributed workflows on Amazon Web Service.
+I recently graduated with a MS in Computer Science and Systems graduate from the University of Washington. My capstone project involed building cloud-native applications using open-source software (e.g. Kubernetes, OpenFaaS), as well as benchmarking and cost analysis of provisioning and running distributed workflows on Amazon Web Service.
 
 I live in the Pacific Northwest with my wife, daughters, and dogs. In my free time, I enjoy climbing, kayaking, home brewing, gardening, and programming.
 
