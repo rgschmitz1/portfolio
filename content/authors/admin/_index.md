@@ -10,16 +10,16 @@ role: DevOps Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: BioDepot LLC
-  url: https://biodepot.io/
+- name: Univeristy of Washington
+  url: https://uw.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include DevOps, cloud computing, and open source software.
+bio: My interests include cloud computing and open-source software.
 
 # Interests to show in About widget
 interests:
 - Cloud Computing
-- Open Source Software
+- Open-Source Software
 - DevOps
 
 # Education to show in About widget
@@ -27,7 +27,7 @@ education:
   courses:
   - course: MS in Computer Science and Systems
     institution: University of Washington Tacoma
-    year: 2022
+    year: 2023
   - course: BS in Computer Science and Systems
     institution: University of Washington Tacoma
     year: 2020
@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Robert is currently a Computer Science and Systems graduate student at the University of Washington Tacoma. His capstone project involves building cloud-native applications using open source software (e.g. Kubernetes, OpenFaaS).
+I recently graduated with a MS in Computer Science and Systems graduate from the University of Washington - Tacoma. My capstone project involed building cloud-native applications using open-source software (e.g. Kubernetes, OpenFaaS), as well as benchmarking and cost analysis of provisioning and running distributed workflows on Amazon Web Service.
 
-Robert lives in the Pacific Northwest with his wife, daughters, and dogs. He enjoys climbing, kayaking, home brewing, gardening, and programming.
+I live in the Pacific Northwest with my wife, daughters, and dogs. In my free time, I enjoy climbing, kayaking, home brewing, gardening, and programming.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
