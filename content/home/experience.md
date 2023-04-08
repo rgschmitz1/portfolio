@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: System Analyst/Programmer 3
+    company: University of Washington
+    company_url: 'https://uw.edu'
+    # company_logo: org-gc
+    location: Tacoma, Washington
+    date_start: '2023-03-16'
+    date_end: ''
+    description: |2-
+      * Developing and facilitating training on Docker image creation and containerized workflows using Biodepot-workflow-builder (Bwb)
+      * Automation of various tasks using shell scripts and containerized microservices
+
   - title: Research Assistant
     company: University of Washington
     company_url: 'https://uw.edu'
